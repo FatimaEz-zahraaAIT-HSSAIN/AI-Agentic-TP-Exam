@@ -92,3 +92,20 @@ Créez un fichier nommé exactement `.env` à la racine de votre projet. Ajoutez
 **Titoken Output:**
 
 <img src="assets/1-Tiktoken-Output.png">
+
+
+**LLM Locaux avec Ollama Output:**
+
+<img src="assets/2-LLM-Locaux-avec-Ollama-Output.png">
+
+**LLMs Groq Output:**
+
+<img src="assets/3-LLMs-Groq-Output.png">
+
+**(Postman) Requête HTTP LLM Ollama Output:**
+
+<img src="assets/4-Interagir-avec-les-LLM-Ollama-Output.png">
+
+**Analyse Sentiments Output:**
+
+<img src="assets/6-analyse-sentiments-Output.png">
