@@ -79,7 +79,7 @@ uv pip install langchain-ollama ipython
 uv pip install python-dotenv langchain-groq langchain-openai
 ```
 
-**Configurer vos clés API :**
+## Étape 5 : Configurer vos clés API :
 
 Créez un fichier nommé exactement `.env` à la racine de votre projet. Ajoutez vos clés :
 
