@@ -90,4 +90,5 @@ Créez un fichier nommé exactement `.env` à la racine de votre projet. Ajoutez
 ## Des Screenshots:
 
 **Titoken Output:**
+
 <img src="assets/1-Tiktoken-Output.png" width="50%">
