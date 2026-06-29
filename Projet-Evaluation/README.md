@@ -57,3 +57,7 @@ Pour lancer l'assistant WorkEase, exécutez simplement :
 ```bash
 python main.py
 ```
+
+## Output
+
+![Output](./assets/RAG-Output.png)
