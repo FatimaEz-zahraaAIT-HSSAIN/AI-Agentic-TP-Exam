@@ -47,12 +47,38 @@ Créez un fichier nommé `.env` à la racine du projet et ajoutez-y votre clé A
 TAVILY_API_KEY=votre_cle_api_ici
 ```
 
-## 🚀 Comment utiliser ce projet
+## Comment utiliser ce projet
 
 1. Ouvrez le fichier **Jupyter Notebook (`.ipynb`)** dans votre éditeur préféré (VS Code, JupyterLab, etc.).
 2. Assurez-vous que le serveur **Ollama tourne en arrière-plan**.
 3. Sélectionnez votre environnement Python géré par `uv` comme **Kernel** (Noyau) pour le notebook.
 4. Exécutez les cellules une par une pour observer le comportement des différents agents.
+
+## Screenshots
+
+**Output 1:**
+
+<img src="assets/1-Output.png">
+
+**Output 2:**
+
+<img src="assets/2-Output.png">
+
+**Output 3:**
+
+<img src="assets/3-Output.png">
+
+**Output 4:**
+
+<img src="assets/4-Output.png">
+
+**Output 5:**
+
+<img src="assets/5-Output.png">
+
+**Output 6:**
+
+<img src="assets/6-Output.png">
 
 ---
 *Ce projet a été réalisé dans le cadre du module SMA et IAD (Master SDIA).*
