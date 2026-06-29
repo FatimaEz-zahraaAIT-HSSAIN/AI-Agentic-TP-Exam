@@ -59,6 +59,6 @@ python main.py
 ```
 
 ## Démonstration Vidéo
-Cliquez sur l'image ci-dessous pour visionner la simulation de 2 minutes du système en action :
+Cliquez sur l'image ci-dessous pour visionner la simulation du système en action :
 
 [![Démonstration WorkEase](./assets/RAG-Output.png)](https://youtu.be/BDF9jIBnEtI)
