@@ -61,4 +61,4 @@ python main.py
 ## Démonstration Vidéo
 Cliquez sur l'image ci-dessous pour visionner la simulation de 2 minutes du système en action :
 
-[![Démonstration WorkEase](https://img.youtube.com/vi/BDF9jIBnEtI/0.jpg)](https://youtu.be/BDF9jIBnEtI)
+[![Démonstration WorkEase](./assets/RAG-Output.png)](https://youtu.be/BDF9jIBnEtI)
