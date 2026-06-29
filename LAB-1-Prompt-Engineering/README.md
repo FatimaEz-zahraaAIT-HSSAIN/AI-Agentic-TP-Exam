@@ -1,4 +1,4 @@
-# Guide Complet : TP LangChain & Prompt Engineering (Master SDIA)
+# LAB 1 :  LangChain & Prompt Engineering (Master SDIA)
 
 > Ce document sert de guide de référence pour configurer un environnement Python moderne et exécuter l'ensemble des exercices du TP sur l'ingénierie des prompts avec LangChain, Ollama, Groq et OpenAI. Ce guide prend en compte toutes les erreurs courantes (problèmes de PATH, erreurs de frappe dans les dépendances, limites de facturation API et modèles non supportés) et fournit les solutions exactes pour que chaque étape fonctionne du premier coup.
 
@@ -109,3 +109,6 @@ Créez un fichier nommé exactement `.env` à la racine de votre projet. Ajoutez
 **Analyse Sentiments Output:**
 
 <img src="assets/6-analyse-sentiments-Output.png">
+
+---
+*Ce projet a été réalisé dans le cadre du module SMA et IAD (Master SDIA).*
