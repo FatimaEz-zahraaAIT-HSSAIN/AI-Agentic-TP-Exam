@@ -1,6 +1,6 @@
-# AI Agentic - MASTER
+# AI Agentic - MASTER ENSET II-BDCC
 
-A brief description of what this project does and who it's for.
+Depot unique regroupant tous les Labs et TPs + Evaluation du module SMA et IAD — Master BDCC | Prof. RETAL SARA.
 
 ## Structure
 
