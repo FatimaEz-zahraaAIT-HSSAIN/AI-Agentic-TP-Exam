@@ -93,3 +93,6 @@ uv run chef-agent.py
 * [Tavily](https://tavily.com/) - Moteur de recherche optimise pour les agents IA.
 * [Langgraph](https://python.langchain.com/docs/langgraph/) - Utilise pour la gestion de l'etat et de la memoire conversationnelle.
 * [uv](https://docs.astral.sh/uv/) - Gestionnaire de paquets et d'environnements virtuels ultra-rapide en Python.
+
+---
+*Ce projet a été réalisé dans le cadre du module SMA et IAD (Master SDIA).*

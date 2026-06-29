@@ -62,3 +62,6 @@ python main.py
 Cliquez sur l'image ci-dessous pour visionner la simulation du système en action :
 
 [![Démonstration WorkEase](./assets/RAG-Output.png)](https://youtu.be/BDF9jIBnEtI)
+
+---
+*Ce projet a été réalisé dans le cadre du module SMA et IAD (Master SDIA).*
