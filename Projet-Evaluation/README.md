@@ -58,6 +58,7 @@ Pour lancer l'assistant WorkEase, exécutez simplement :
 python main.py
 ```
 
-## Output
+## Démonstration Vidéo
+Cliquez sur l'image ci-dessous pour visionner la simulation de 2 minutes du système en action :
 
-![Output](./assets/RAG-Output.png)
+[![Démonstration WorkEase](https://img.youtube.com/vi/BDF9jIBnEtI/0.jpg)](https://youtu.be/BDF9jIBnEtI)
